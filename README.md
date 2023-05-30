@@ -1,6 +1,6 @@
 # This repo contains IPL 2023 dataset.
 
-## All the datasets can also be viewed over [kaggle](LINK).
+## All the datasets can also be viewed over [kaggle](https://www.kaggle.com/datasets/adityaazad79/ipl-2023-dataset).
 
 ### Connect and follow me over [linkedIn](https://www.linkedin.com/in/adityaazad79)
 
