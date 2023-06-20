@@ -14,10 +14,6 @@
 
 2. Bowling_PerMatchData_IPL_2023.csv - The dataset contains information about the performance of each bowler in each inning of the match.
 
-#### The datasets have been categorised yearwise and are presnt in their respective yearwise_folders.
-
-#### I have also combined the datasets into a single one for each type of datasets which is present at the home of the repo.
-
 # All the column names and their explanations.
 ## 1. Dataset : Batting_PerMatchData_IPL_2023.csv
 
