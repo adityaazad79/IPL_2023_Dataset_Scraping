@@ -8,7 +8,7 @@
 
 ## You may use the dataset for your EDA, visualisations, BI projects, Performance analysis, Predictive modeling, Sponsorship and marketing, etc.
 
-# There are three types of datasets in the repo.
+# There are two datasets in the repo.
 
 1. Batting_PerMatchData_IPL_2023.csv - The dataset contains information about the performance of each batsman in each inning of the match.
 
